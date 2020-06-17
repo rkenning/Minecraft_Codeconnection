@@ -19,4 +19,4 @@ def on_chat():
         FillOperation.REPLACE)
     for index in range(5):
         pass
-player.on_chat("run", on_chat)
+player.on_chat("ben", on_chat)
